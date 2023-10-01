@@ -1,5 +1,5 @@
 ## to execute ##
-#python -m flask --app .\app_test.py run
+#python -m flask --app .\app_laermkarte.py run
 ################
 import functions_laermkarte
 from flask import Flask
