@@ -1,8 +1,8 @@
 # StadtKlang Learmkarte
-Abgabeleistung Modul Wissensmanagement Sommersemester 2023 
-Noah Pannicke (584166)
-Adem Korkutan (571303)
-Nele Sophie Engel (584172)
+Abgabeleistung Modul Wissensmanagement Sommersemester 2023   
+Noah Pannicke (584166)  
+Adem Korkutan (571303)  
+Nele Sophie Engel (584172)  
 
 
 Eine detaillierte Dokumentation der Skripte und des Projekts erfolgt in einem seperaten Dokument.
