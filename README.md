@@ -15,7 +15,7 @@ Die dB-Beispieldaten sind als .csv Dateien im Repository abgelegt und werden aus
 
 # Skripte
 Zur Erstellung der Lärmkarte muss das Skript __app_laermkarte.py__ ausgeführt werden.
-In diesem Skript befindet sich die Flask-App, welche direkt in der IDE oder durch Ausführung des 'python -m flask --app .\app_test.py run' Befehls, ausgeführt werden kann.
+In diesem Skript befindet sich die Flask-App, welche direkt in der IDE oder durch Ausführung des 'python -m flask --app .\app_laermkarte.py run' Befehls, ausgeführt werden kann.
 
 ![image](https://github.com/NoahPannicke/WM_Learmkarte/assets/50919321/bd9289f5-44e7-4957-8470-d163d8fbfeba)
 
